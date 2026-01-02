@@ -22,9 +22,7 @@
   <a href="#-features"><strong>Features</strong></a> •
   <a href="#-screenshots"><strong>Screenshots</strong></a> •
   <a href="#-demo-video"><strong>Demo</strong></a> •
-  <a href="#-installation"><strong>Installation</strong></a> •
   <a href="#-tech-stack"><strong>Tech Stack</strong></a> •
-  <a href="#-contributing"><strong>Contribute</strong></a>
 
 </div>
 
@@ -87,11 +85,15 @@
 
 ## 🎬 Demo Video
 
-https://github.com/codetechdev/WallpaperCompose/assets/xxxxxxxxx/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
-
-*(Upload a 20–40s vertical screen recording showing: category switch, photo set, video download + live wallpaper preview)*
+![Demo](demo/wallpaper_demo.gif)
 
 <br/>
 
 - Free Pexels API Key → https://www.pexels.com/api/
+
+---
+
+⭐ Loved this project? Give it a star and support the work!
+
+
 
