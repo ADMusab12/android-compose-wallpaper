@@ -17,9 +17,6 @@
     <strong>4K Photos • Live Video Wallpapers • Material You • Pexels API</strong>
   </h3>
 
-  <img src="https://raw.githubusercontent.com/codetechdev/WallpaperCompose/main/media/banner-dark.png#gh-dark-mode-only" width="90%" alt="Dark Mode Banner"/>
-  <img src="https://raw.githubusercontent.com/codetechdev/WallpaperCompose/main/media/banner-light.png#gh-light-mode-only" width="90%" alt="Light Mode Banner"/>
-
   <br/><br/>
 
   <a href="#-features"><strong>Features</strong></a> •
@@ -74,16 +71,14 @@
 <div align="center">
 <table>
 <tr>
-<td><img src="https://raw.githubusercontent.com/codetechdev/WallpaperCompose/main/media/ss1-photos-grid.png" width="220" alt="Photos Grid"/></td>
-<td><img src="https://raw.githubusercontent.com/codetechdev/WallpaperCompose/main/media/ss2-video-categories.png" width="220" alt="Video Categories"/></td>
-<td><img src="https://raw.githubusercontent.com/codetechdev/WallpaperCompose/main/media/ss3-detail-screen.png" width="220" alt="Detail Screen"/></td>
-<td><img src="https://raw.githubusercontent.com/codetechdev/WallpaperCompose/main/media/ss4-download-progress.png" width="220" alt="Video Download"/></td>
+<td><img src="demo/d1.jpg" width="220" alt=""/></td>
+<td><img src="demo/d2.jpg" width="220" alt=""/></td>
+<td><img src="demo/d3.jpg" width="220" alt=""/></td>
 </tr>
 <tr>
-<td align="center"><sub>Photos + Categories</sub></td>
-<td align="center"><sub>Video Categories</sub></td>
-<td align="center"><sub>Wallpaper Detail</sub></td>
-<td align="center"><sub>Live Video Download</sub></td>
+<td><img src="demo/d4.jpg" width="220" alt=""/></td>
+<td><img src="demo/d5.jpg" width="220" alt=""/></td>
+<td><img src="demo/d6.jpg" width="220" alt=""/></td>
 </tr>
 </table>
 </div>
