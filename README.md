@@ -4,10 +4,6 @@
   <img src="https://img.shields.io/badge/Pexels%20API-4K%20Photos%20%26%20Videos-26A641?style=for-the-badge&logo=pexels&logoColor=white&labelColor=000000" alt="Pexels API" />
   <img src="https://img.shields.io/badge/Live%20Video%20Wallpapers-Working-F57C00?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" alt="Live Wallpapers" />
   <img src="https://img.shields.io/badge/Kotlin%20Coroutines%20%26%20Flow-1.8+-00BCD4?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=000000" alt="Coroutines" />
-  <br>
-  <img src="https://img.shields.io/github/license/codetechdev/WallpaperCompose?style=for-the-badge&color=FFD700" alt="License MIT" />
-  <img src="https://img.shields.io/github/stars/codetechdev/WallpaperCompose?style=for-the-badge&color=yellow" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/codetechdev/WallpaperCompose?style=for-the-badge&color=teal" alt="Forks" />
 </p>
 
 <div align="center">
