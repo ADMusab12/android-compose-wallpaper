@@ -64,6 +64,10 @@
 
 <br/>
 
+## 🎬 Demo Video
+
+![Demo](https://raw.githubusercontent.com/ADMusab12/android-compose-wallpaper/main/demo/wallpaper_demo.gif)
+
 ## 📸 Screenshots
 
 <div align="center">
@@ -80,12 +84,6 @@
 </tr>
 </table>
 </div>
-
-<br/>
-
-## 🎬 Demo Video
-
-![Demo](demo/wallpaper_demo.gif)
 
 <br/>
 
